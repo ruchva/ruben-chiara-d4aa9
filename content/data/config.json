@@ -8,11 +8,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
