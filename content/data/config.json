@@ -24,7 +24,7 @@
             },
             {
                 "label": "Podcast",
-                "url": "#",
+                "url": "/podcast/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
