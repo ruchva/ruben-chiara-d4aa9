@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Ruben Chiara Valencia
     content: >
-      Soy informático con 10 años de experienciaen desarrollo de software con
+      Soy informático con 10 años de experiencia en desarrollo de software con
       especialidaden Backend y manejo de Bases de Datos.Poseo la capacidad de
       gestionar equipos dedesarrollo, resolución de problemas yadaptación al
       cambio.
