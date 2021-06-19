@@ -17,7 +17,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: ¿De qué hablaremos hoy?
+    title: ¿Cómo puedo ayudarte?
     subtitle: Entradas recientes.
     col_number: two
     is_numbered: true
