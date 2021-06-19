@@ -75,5 +75,6 @@
             }
         ]
     },
-    "domain": "https://ruben-chiara.app"
+    "domain": "https://ruben-chiara.app",
+    "favicon": "/images/smiling-chestnut.jpg"
 }
