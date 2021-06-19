@@ -18,7 +18,7 @@ sections:
   - section_id: services
     type: section_grid
     title: ¿Cómo puedo ayudarte?
-    subtitle: Entradas recientes.
+    subtitle: Areas
     col_number: two
     is_numbered: true
     grid_items:
