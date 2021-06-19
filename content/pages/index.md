@@ -24,7 +24,7 @@ sections:
   - section_id: services
     type: section_grid
     title: ¿De qué hablaremos hoy?
-    subtitle: An optional subtitle of the section
+    subtitle: Entradas recientes.
     col_number: two
     is_numbered: true
     grid_items:
