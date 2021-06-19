@@ -62,7 +62,8 @@
                 "new_window": true
             }
         ],
-        "links": []
+        "links": [],
+        "content": "@"
     },
     "domain": "https://ruben-chiara.app",
     "favicon": "/images/smiling-chestnut.jpg"
