@@ -43,13 +43,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: section_testimonials
     col_number: three
-    testimonials:
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    testimonials: []
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
