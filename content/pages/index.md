@@ -5,13 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Ruben Chiara Valencia
-    content: >
+    content: >+
       Soy informático con diez años de experiencia en desarrollo de software,
-      especializado en Backend y manejo de Bases de Datos. 
+      especializado en Backend y manejo de Bases de Datos.
 
-
-      Poseo la capacidad de gestionar equipos dedesarrollo, resolución de
-      problemas yadaptación al cambio.
     actions:
       - label: Let's talk
         url: /contact
