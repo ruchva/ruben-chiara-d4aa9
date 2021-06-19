@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: Ruben Chiara Valencia
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Soy informático con 10 años de experienciaen desarrollo de software con
+      especialidaden Backend y manejo de Bases de Datos.Poseo la capacidad de
+      gestionar equipos dedesarrollo, resolución de problemas yadaptación al
+      cambio.
     actions:
       - label: Let's talk
         url: /contact
