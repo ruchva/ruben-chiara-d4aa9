@@ -62,17 +62,7 @@
                 "new_window": true
             }
         ],
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon": "github",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "domain": "https://ruben-chiara.app",
     "favicon": "/images/smiling-chestnut.jpg"
