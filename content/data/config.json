@@ -2,7 +2,7 @@
     "title": "ruchva",
     "path_prefix": "/",
     "color_scheme": "dark",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
         "title": "ruchva",
         "has_nav": true,
