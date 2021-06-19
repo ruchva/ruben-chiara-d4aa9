@@ -62,6 +62,17 @@
                 "icon": "linkedin",
                 "new_window": true
             }
+        ],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
         ]
     },
     "domain": "https://ruben-chiara.app",
