@@ -13,11 +13,6 @@
                 "style": "link"
             },
             {
-                "label": "Acerca",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
