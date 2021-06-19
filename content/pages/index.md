@@ -13,7 +13,6 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: ¿De qué hablaremos hoy?
-    subtitle: Entradas recientes.
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
