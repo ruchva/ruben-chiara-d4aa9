@@ -42,7 +42,6 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: section_testimonials
-    subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
       - author: Sean Salazar
