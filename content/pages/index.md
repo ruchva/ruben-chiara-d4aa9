@@ -47,7 +47,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Blog
-    subtitle: An optional subtitle of the section
+    subtitle: Entradas recientes
     posts_number: 3
     col_number: three
     actions:
