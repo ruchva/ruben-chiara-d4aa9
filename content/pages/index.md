@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: Ruben Chiara - Full Stack Developer
     content: >
-      ![](/\_static/app-assets/images/ruben-chiara.png)Soy informático con diez
-      años de experiencia en desarrollo de software, especializado en Backend y
-      manejo de Bases de Datos.
+      Soy informático con diez años de experiencia en desarrollo de software,
+      especializado en Backend y manejo de Bases de Datos.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
