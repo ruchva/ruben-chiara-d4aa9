@@ -1,6 +1,6 @@
 ---
 title: Ruben Chiara
-subtitle: Full Stacl developer
+subtitle: Full Stack developer
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
