@@ -35,9 +35,6 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - type: section_testimonials
-    col_number: three
-    testimonials: []
   - section_id: latest-posts
     type: section_posts
     title: Blog
