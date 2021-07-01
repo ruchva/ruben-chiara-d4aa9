@@ -2,7 +2,7 @@
 title: Podcast
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: 'Podcast: Insights'
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: mosaic
