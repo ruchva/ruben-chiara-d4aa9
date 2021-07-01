@@ -9,12 +9,6 @@ sections:
       Soy informático con diez años de experiencia en desarrollo de software,
       especializado en Backend y manejo de Bases de Datos.
     actions: []
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    projects_number: 4
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: ¿Cómo puedo ayudarte?
