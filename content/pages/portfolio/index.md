@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Podcast
 layout_style: mosaic
 seo:
   title: Portfolio
