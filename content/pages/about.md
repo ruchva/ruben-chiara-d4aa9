@@ -35,10 +35,34 @@ seo:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+>¿Quién soy?
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Boliviano, me encuentran en La Paz, soy informático, padre de una hermosa nena, desde 2010 e brindado servicios en soporte y desarrollo de sistemas y aplicaciones en empresas públicas y privadas. 
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+>Especialidades
 
-*Thank You for reading!*
+JAVA, JEE, Maven, JBoss, JSF, PrimeFaces.
+PHP, Laravel, Composer. 
+JavaScript, Node.
+Bases de Datos, GitHub, Linux.
+
+>Intereses
+
+Completar el stack de FrontEnd con React.
+Ser bilingüe.
+
+>Trayectoria
+
+Soy desarrollador con más de 10 años de experiencia, tengo especialidad en BackEnd y Bases de Datos. Poseo la capacidad de gestionar equipos, resolución de problemas y adaptación al cambio.
+Mejor conocido como @ruchva en redes sociales.
+Comencé en el INE como programador junior donde fui aprendiendo y ascendí hasta especialista de sistemas, trabaje implementando los sistemas para el procesamiento de los datos del Censo Nacional y del Censo Agropecuario, luego fui desarrollador en la AJAM donde trabaje implementando el sistema georreferenciado del catastro minero, posterior a eso fui DBA en el SENASIR donde trabaje en la migración de las bases de datos para el nuevo sistema de Reparto y Compensación de Cotizaciones, finalmente desde el 2015 hasta fines del 2020 trabaje en la EDV S. A., donde le di mantenimiento y desarrolle nuevas funcionalidades para el sistema SUNQU, infraestructura primordial del mercado financiero boliviano.
+Durante todo este tiempo he aprendido bastante y siento mucha gratitud con todas las instituciones que me dieron la oportunidad y con los amigos que conocí en cada una de ellas, por medio de este trabajo he podido conocer mi hermoso país y un poco del continente.
+
+*De todo corazón, muchas gracias.* 
+
+
+
+
+
+
+
