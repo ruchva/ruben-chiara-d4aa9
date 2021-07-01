@@ -13,7 +13,7 @@ sections:
     type: section_posts
     title: Blog
     subtitle: Entradas recientes
-    posts_number: 3
+    posts_number: 2
     col_number: three
     actions:
       - label: View Blog
