@@ -1,6 +1,6 @@
 ---
 title: Ruben Chiara
-subtitle: This is a short page about us and our work.
+subtitle: Full Stacl developer
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
