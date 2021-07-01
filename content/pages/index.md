@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: Ruben Chiara
-    content: >
-      Soy informático con diez años de experiencia en desarrollo de software,
-      especializado en Backend y manejo de Bases de Datos.
+    content: >+
+      Soy desarrollador con más de 10 años de experiencia, tengo especialidad en
+      BackEnd y Bases de Datos.
+
+
+
     actions: []
   - section_id: latest-posts
     type: section_posts
