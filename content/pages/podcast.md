@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: Podcast
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Hablemos de todo pero
     posts_number: 3
     col_number: three
     actions: []
