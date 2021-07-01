@@ -39,13 +39,17 @@ Boliviano, me encuentran en La Paz, soy informático, padre de una hermosa nena,
 >Especialidades
 
 JAVA, JEE, Maven, JBoss, JSF, PrimeFaces.
+
 PHP, Laravel, Composer. 
+
 JavaScript, Node.
+
 Bases de Datos, GitHub, Linux.
 
 >Intereses
 
 Completar el stack de FrontEnd con React.
+
 Ser bilingüe.
 
 >Trayectoria
