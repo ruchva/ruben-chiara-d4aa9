@@ -1,7 +1,7 @@
 import advanced from './advanced';
 import blog from './blog';
 import page from './page';
-import portfolio from './portfolio';
+import portfolio from './podcast';
 import post from './post';
 import project from './project';
 
