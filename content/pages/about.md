@@ -1,6 +1,9 @@
 ---
 title: Ruben Chiara
-subtitle: Full Stack developer
+subtitle: >-
+  Full Stack developer con especialidaden Backend y manejo de Bases de
+  Datos.Poseo la capacidad de gestionar equipos dedesarrollo, resolución de
+  problemas y adaptación al cambio.
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
