@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Podcast
 hide_title: true
 sections: []
 seo:
