@@ -2,7 +2,7 @@
 title: Podcast
 hide_title: true
 sections:
-  - title: 'Podcast: insights'
+  - title: 'Podcast: Insights'
     section_id: lorem-ipsum
     subtitle: Hablemos de todo pero con un punto de vista diferente.
     posts_number: 3
