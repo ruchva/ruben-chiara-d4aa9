@@ -2,7 +2,7 @@
 title: Podcast
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Podcast
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     posts_number: 3
