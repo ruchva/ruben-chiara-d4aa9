@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: 'Podcast: Insights'
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Hablemos de todo pero desde un punto de vista diferente.
     layout_style: mosaic
     projects_number: 6
     view_all_label: lorem-ipsum
