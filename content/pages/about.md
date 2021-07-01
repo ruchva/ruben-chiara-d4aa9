@@ -32,7 +32,7 @@ seo:
 layout: page
 ---
 
->¿Quién soy?
+title: ¿Quién soy?
 
 Boliviano, me encuentran en La Paz, soy informático, padre de una hermosa nena, desde 2010 e brindado servicios en soporte y desarrollo de sistemas y aplicaciones en empresas públicas y privadas. 
 
