@@ -2,7 +2,7 @@
 title: Podcast
 hide_title: true
 sections:
-  - title: Podcast
+  - title: Podcast Insigths
     section_id: lorem-ipsum
     subtitle: Hablemos de todo pero
     posts_number: 3
